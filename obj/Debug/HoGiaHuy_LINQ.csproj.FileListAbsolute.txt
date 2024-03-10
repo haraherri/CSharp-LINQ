@@ -1,0 +1,7 @@
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_LINQ\bin\Debug\HoGiaHuy_LINQ.exe.config
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_LINQ\bin\Debug\HoGiaHuy_LINQ.exe
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_LINQ\bin\Debug\HoGiaHuy_LINQ.pdb
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_LINQ\obj\Debug\HoGiaHuy_LINQ.csproj.AssemblyReference.cache
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_LINQ\obj\Debug\HoGiaHuy_LINQ.csproj.CoreCompileInputs.cache
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_LINQ\obj\Debug\HoGiaHuy_LINQ.exe
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_LINQ\obj\Debug\HoGiaHuy_LINQ.pdb
